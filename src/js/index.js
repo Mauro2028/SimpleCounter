@@ -37,7 +37,7 @@ setInterval(function() {
 	const three = Math.floor(counter / 100);
 	const two = Math.floor(counter / 10);
 	const one = Math.floor(counter / 1);
-	console.log(four, three, two, one);
+	//console.log(four, three, two, one);
 	//render your react application
 	counter++;
 
